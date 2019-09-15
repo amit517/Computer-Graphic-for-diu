@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564756845 source:i:\graphics\cycle\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+

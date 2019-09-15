@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1558679922 source:i:\graphics\lab task 1\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+
+1558679922 source:i:\graphics\bari\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+

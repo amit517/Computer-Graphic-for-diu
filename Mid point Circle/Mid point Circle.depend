@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564805414 source:i:\graphics\mid point circle\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+

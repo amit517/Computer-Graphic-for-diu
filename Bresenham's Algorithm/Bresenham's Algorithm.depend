@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1561393337 source:i:\graphics\bresenham's algorithm\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+

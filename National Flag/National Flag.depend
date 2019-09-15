@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564731264 source:i:\graphics\national flag\main.c
+	<GL/gl.h>
+	<GL/glut.h>
+

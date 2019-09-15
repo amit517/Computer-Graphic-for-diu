@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1564208242 source:i:\graphics\saheed miner\main.c
+	<GL/glut.h>
+	<stdio.h>
+	<GL/gl.h>
+
